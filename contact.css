@@ -1,0 +1,43 @@
+.top{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    }
+    .link{
+        color: black;
+        padding: 0 25px;
+        text-decoration: none;
+        border-radius: 25px;
+    }
+    .link:hover{
+        background-color: hsla(0, 0%, 0%, 0.237);
+    }
+    .but{
+        background-color: #df2369;
+        padding: 5px 15px;
+        border-radius: 25px;
+        color: aliceblue;
+        border: none;
+    }
+    .bo{
+        background-color:white;
+        color: black;
+        justify-content: space-between;
+        padding: 20px 50px;
+        align-items: center;
+    }
+    .te{
+        color: black;
+        padding: 0 25px;
+        text-decoration: none;
+        border-radius: 25px;
+    }
+    .cont{
+        align-items: center;
+        justify-content: space-between;
+    }
+    .fin{
+        background-color: #EEEEEE;
+    }
